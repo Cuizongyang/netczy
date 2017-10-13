@@ -1,0 +1,16 @@
+		div{ position: absolute;
+	}
+	body{margin: 0;
+		 padding: 0;
+	}
+	.beam{width: 1600px;
+		  height: 20px;
+		  background: #fff;
+		  top: 290px;
+		  left: -400px;
+	}
+	.bg{width: 800px;
+		height: 600px;
+		background: black;
+		overflow: hidden;
+	}
